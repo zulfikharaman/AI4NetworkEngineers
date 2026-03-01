@@ -18,7 +18,7 @@ Prompts to:
 *   Identify critical events
 *   Highlight errors or patterns
 
-### **2. Config Assistance**
+### **[2. Config Assistance](./config-review)**
 
 Prompts to:
 
