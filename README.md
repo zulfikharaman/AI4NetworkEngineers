@@ -27,7 +27,7 @@ Prompts to:
 *   Convert CLI to JSON/YAML
 *   Generate sample configs
 
-### **3. Troubleshooting**
+### **3. [Troubleshooting](./Troubleshooting)**
 
 Prompts to:
 
