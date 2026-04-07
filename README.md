@@ -24,7 +24,10 @@ to automate, troubleshoot, and optimize networks safely and effectively.
 5. Responsible AI in Networking
 
 📘 Start here → [Roadmap](docs/roadmap.md)   
-📘 Example Use Case: [BGP Troubleshooting](docs/use-cases/bgp-troubleshooting.md)
+
+## 📘 Example Use Cases
+
+- 👉 [BGP Troubleshooting Using AI](docs/use-cases/bgp-troubleshooting.md)
 
 ## Disclaimer ⚠️
 Never blindly apply AI-generated configs or commands in production.
