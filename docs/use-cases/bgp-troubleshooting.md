@@ -1,3 +1,10 @@
+# BGP Troubleshooting Prompts
+
+Use these prompts when analyzing BGP issues with AI tools
+(ChatGPT, Copilot, Claude, etc.)
+
+Always validate outputs before applying changes.
+
 # BGP Troubleshooting Using AI
 
 This use case demonstrates **how a Network Engineer can safely use AI**
