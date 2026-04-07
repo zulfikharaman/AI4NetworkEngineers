@@ -25,6 +25,11 @@ to automate, troubleshoot, and optimize networks safely and effectively.
 
 📘 Start here → [Roadmap](docs/roadmap.md)   
 
+## 🧩 Prompts vs Use Cases
+
+- Use the `prompts/` folder for reusable, copy‑paste AI prompts
+- Use `docs/use-cases/` to see how those prompts are applied safely in real scenarios
+
 ## 📘 Example Use Cases
 
 - 👉 [BGP Troubleshooting Using AI](docs/use-cases/bgp-troubleshooting.md)
