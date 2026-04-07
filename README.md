@@ -1,80 +1,31 @@
-# AI4NetworkEngineers – Prompting Use Cases
+# AI for Network Engineers 🚀
 
-This repository contains **useful AI prompts** that help Network Engineers with daily tasks like troubleshooting, configuration review, documentation, and learning. The goal is to make it easy for engineers to start using AI effectively.
+This repository helps Network Engineers use AI and Generative AI
+to automate, troubleshoot, and optimize networks safely and effectively.
 
-> ⚠️ **Always verify the output. AI can be wrong, especially with networking details.**
+## Who is this for?
+- Network Engineers (L2–L4)
+- Network Architects
+- NOC / SOC Engineers
+- Anyone curious about AI in Networking
 
-***
+## What you will learn
+✅ AI fundamentals (without heavy math)  
+✅ Generative AI for networking tasks  
+✅ Prompt engineering for CLI, configs, and logs  
+✅ Real-world use cases (ISP, DC, Enterprise)  
+✅ Risks, hallucinations & how to verify AI output  
 
-## 📌 What This Repo Provides
+## Learning Roadmap
+1. AI Basics for Network Engineers
+2. Generative AI & LLMs
+3. Prompt Engineering (Networking-focused)
+4. Hands-on Use Cases
+5. Responsible AI in Networking
 
-A collection of practical prompts grouped into simple categories:
+📘 Start here → [Roadmap](docs/roadmap.md)
 
-### **1. Log Analysis**
-
-Prompts to:
-
-*   Summarize logs
-*   Identify critical events
-*   Highlight errors or patterns
-
-### **[2. Config Assistance](./config-review)**
-
-Prompts to:
-
-*   Review configs for issues
-*   Suggest improvements
-*   Convert CLI to JSON/YAML
-*   Generate sample configs
-
-### **[3. Troubleshooting](./Troubleshooting)**
-
-Prompts to:
-
-*   Suggest possible root causes
-*   Provide step-by-step checks
-*   Explain protocol behavior
-*   Interpret CLI outputs
-
-### **4. Documentation**
-
-Prompts to:
-
-*   Create change requests
-*   Summarize incidents
-*   Write design notes
-*   Generate easy‑to‑understand explanations
-
-### **5. Learning & Practice**
-
-Prompts to:
-
-*   Break down complex topics
-*   Generate quizzes
-*   Explain protocols with examples
-
-***
-
-## 🧠 Sample Prompts
-
-**Log Summary**
-
-    Summarize these network logs and list any critical issues.
-
-**Troubleshooting**
-
-    My OSPF adjacency is stuck in EXSTART. Give me possible root causes and the commands I should run to verify each one.
-
-**Config Review**
-
-    Review this Cisco configuration and highlight any mistakes, security risks, or unused commands.
-
-**Convert Config**
-
-    Convert this firewall configuration into clean JSON format suitable for automation.
-
-**Learn a Topic**
-
-    Explain how BGP local preference works using a simple example.
-
-***
+## Disclaimer ⚠️
+Never blindly apply AI-generated configs or commands in production.
+Always validate in lab/test environments.
+``
