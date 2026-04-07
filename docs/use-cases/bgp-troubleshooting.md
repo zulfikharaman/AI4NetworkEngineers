@@ -36,15 +36,3 @@ BGP table version is 3, main routing table version 3
 
 Neighbor        V    AS     MsgRcvd MsgSent   TblVer  InQ OutQ  Up/Down  State
 10.1.1.2        4  65002       0       0        0     0    0   00:05:12 Active
-``
-
-You are a senior network engineer.
-
-Analyze the following BGP summary output.
-Explain:
-1. The most likely causes for the BGP session being in Active state
-2. What should be verified first before making any configuration changes
-3. Safe, non-disruptive troubleshooting steps
-
-Do NOT assume changes can be made in production.
-``
