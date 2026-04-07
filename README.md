@@ -34,7 +34,7 @@ to automate, troubleshoot, and optimize networks safely and effectively.
 
 | Use Case | Scenario | Example Input | AI Prompt Used |
 |--------|----------|---------------|----------------|
-| [BGP Troubleshooting](docs/use-cases/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/bgp/md) |
+| [BGP Troubleshooting](docs/use-cases/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/bgp.md) |
 ``
 
 ## Disclaimer ⚠️
