@@ -27,12 +27,12 @@ to automate, troubleshoot, and optimize networks safely and effectively.
 
 ## 🧩 Prompts vs Use Cases
 
-- Use the `prompts/` folder for reusable, copy‑paste AI prompts
-- Use `docs/use-cases/` to see how those prompts are applied safely in real scenarios
-
 ## 📘 Example Use Cases
 
-- 👉 [BGP Troubleshooting Using AI](docs/use-cases/bgp-troubleshooting.md)
+| Use Case | Scenario | Example Input | AI Prompt Used |
+|--------|----------|---------------|----------------|
+| [BGP Troubleshooting](docs/use-cases/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/bgp/md) |
+``
 
 ## Disclaimer ⚠️
 Never blindly apply AI-generated configs or commands in production.
