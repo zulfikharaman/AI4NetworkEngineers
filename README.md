@@ -29,6 +29,9 @@ to automate, troubleshoot, and optimize networks safely and effectively.
 
 ## 📘 Example Use Cases
 
+```The table below summarizes example use cases and the prompts used.```   
+```Detailed walkthroughs are available in the linked files.```
+
 | Use Case | Scenario | Example Input | AI Prompt Used |
 |--------|----------|---------------|----------------|
 | [BGP Troubleshooting](docs/use-cases/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/bgp/md) |
