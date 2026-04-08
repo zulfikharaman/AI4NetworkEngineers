@@ -57,7 +57,7 @@ If you are new to AI, follow this order:
 | Use Case | Scenario | Example Input | AI Prompt Used |
 |--------|----------|---------------|----------------|
 | [BGP Troubleshooting](use-cases/basic/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/basic/bgp-ts-prompt.md) |
-| [Log Analysis using AI](use-cases/intermediate/log-analysis.md) | Intermittent packet loss with noisy syslogs | Sample syslog messages | [Analyze logs, identify patterns, and suggest safe verification steps](prompts/intermediate/log-analysis-prompt.ms) |
+| [Log Analysis using AI](use-cases/intermediate/log-analysis.md) | Intermittent packet loss with noisy syslogs | Sample syslog messages | [Analyze logs, identify patterns, and suggest safe verification steps](prompts/intermediate/log-analysis-prompt.md) |
 | [Config Review with AI](use-cases/advanced/config-review-with-ai.md) | Pre-change review of routing and ACL configuration | Router configuration snippet | [Review configuration for risks and validation points - no changes](prompts/advanced/config-review-with-ai-prompt.md) |
 ``
 
