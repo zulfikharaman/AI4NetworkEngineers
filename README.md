@@ -56,7 +56,7 @@ If you are new to AI, follow this order:
 
 | Use Case | Scenario | Example Input | AI Prompt Used |
 |--------|----------|---------------|----------------|
-| [BGP Troubleshooting](use-cases/basic/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/basic/bgp.md) |
+| [BGP Troubleshooting](use-cases/basic/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/basic/bgp-ts-prompt.md) |
 ``
 
 ## Disclaimer ⚠️
