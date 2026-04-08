@@ -16,7 +16,7 @@ Only what is useful in real networking jobs.
 - Why network engineers should care
 
 🎯 Goal: Understand AI without fear  
-📘 Read: [here](docs/ai-basics-for-network-engineers.md)
+📘 Read: [here](ai-basics-for-network-engineers.md)
 
 ---
 
