@@ -47,7 +47,7 @@ If you are new to AI, follow this order:
       📘 Click here → [Prompts](prompts/)  
 
 5. **Apply in Your Own Lab or Work**  
-   Use the prompts with *your own* CLI outputs or logs,
+   Use the prompts with *your own* CLI outputs or logs,  
    ⚠️ always validating results before any production change.
 
 ## 🧩 Use Cases To Prompt Mapping
