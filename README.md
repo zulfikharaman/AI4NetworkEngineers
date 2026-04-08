@@ -65,3 +65,15 @@ If you are new to AI, follow this order:
 Never blindly apply AI-generated configs or commands in production.
 Always validate in lab/test environments.
 ``
+
+## 💬 Feedback & Improvements
+
+This repository is evolving based on real Network Engineer feedback.
+
+If you are a Network Engineer, your input matters:
+- Was the learning flow clear?
+- Did any section feel confusing or unnecessary?
+- Did the use cases feel realistic?
+
+Please open an Issue or start a discussion.
+Even simple feedback is extremely valuable.  
