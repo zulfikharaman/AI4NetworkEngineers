@@ -38,7 +38,7 @@ If you are new to AI, follow this order:
    - what prompt was used
    - how the AI responded
    - how a Network Engineer verified the output safely  
-      📘 Click here → [Use-Cases](docs/use-cases/)   
+      📘 Click here → [Use-Cases](use-cases/)   
 
 3. **Go Through Prompts**  
    Visit the `prompts/` folder to see ready-to-use prompts
@@ -56,7 +56,7 @@ If you are new to AI, follow this order:
 
 | Use Case | Scenario | Example Input | AI Prompt Used |
 |--------|----------|---------------|----------------|
-| [BGP Troubleshooting](docs/use-cases/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/bgp.md) |
+| [BGP Troubleshooting](use-cases/bgp-troubleshooting.md) | eBGP session stuck in Active state | `show ip bgp summary` | [Analyze BGP state and suggest safe verification steps](prompts/bgp.md) |
 ``
 
 ## Disclaimer ⚠️
