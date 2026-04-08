@@ -15,7 +15,8 @@ Only what is useful in real networking jobs.
 - What AI is BAD at (hallucinations, confidence)
 - Why network engineers should care
 
-🎯 Goal: Understand AI without fear
+🎯 Goal: Understand AI without fear  
+📘 Read: [here](docs/ai-basics-for-network-engineers.md)
 
 ---
 
