@@ -4,7 +4,7 @@ This repository helps Network Engineers use AI and Generative AI
 to automate, troubleshoot, and optimize networks safely and effectively.
 
 ## Who is this for?
-- Network Engineers (L2–L4)
+- Network Engineers 
 - Network Architects
 - NOC / SOC Engineers
 - Anyone curious about AI in Networking
@@ -16,32 +16,6 @@ to automate, troubleshoot, and optimize networks safely and effectively.
 ✅ Real-world use cases (ISP, DC, Enterprise)  
 ✅ Risks, hallucinations & how to verify AI output 
 
-## 🚦 How to Use This Repository (For Network Engineers)
-
-If you are new to AI, follow this order:
-
-1. **Start with the Roadmap**  
-   Read `docs/roadmap.md` to understand what AI concepts matter
-   for Network Engineers and what can be safely ignored.
-
-   📘 Start here → [Roadmap](docs/roadmap.md)   
-
-3. **Go Through Prompts**  
-   Visit the `prompts/` folder to see ready-to-use prompts
-   for common networking tasks like troubleshooting and analysis.
-   These are meant to be copy-paste starting points.
-
-4. **Study the Use Cases**  
-   Open `docs/use-cases/` to see real examples of:
-   - what problem occurred
-   - what prompt was used
-   - how the AI responded
-   - how a Network Engineer verified the output safely
-
-5. **Apply in Your Own Lab or Work**  
-   Use the prompts with *your own* CLI outputs or logs,
-   always validating results before any production change.
-
 ## Learning Roadmap
 1. AI Basics for Network Engineers
 2. Generative AI & LLMs
@@ -49,14 +23,36 @@ If you are new to AI, follow this order:
 4. Hands-on Use Cases
 5. Responsible AI in Networking
 
-📘 Start here → [Roadmap](docs/roadmap.md)   
+## 🚦 How to Use This Repository (For Network Engineers)
 
-## 🧩 Prompts vs Use Cases
+If you are new to AI, follow this order:
 
-## 📘 Example Use Cases
+1. **Start with the Roadmap**  
+   Read `docs/roadmap.md` to understand what AI concepts matter
+   for Network Engineers and what can be safely ignored.   
+      📘 Start here → [Roadmap](docs/roadmap.md)   
 
-```The table below summarizes example use cases and the prompts used.```   
-```Detailed walkthroughs are available in the linked files.```
+2. **Study the Use Cases**  
+   Open `docs/use-cases/` to see real examples of:
+   - what problem occurred
+   - what prompt was used
+   - how the AI responded
+   - how a Network Engineer verified the output safely  
+      📘 Click here → [Use-Cases](docs/use-cases/)   
+
+3. **Go Through Prompts**  
+   Visit the `prompts/` folder to see ready-to-use prompts
+   for common networking tasks like troubleshooting and analysis.
+   These are meant to be copy-paste starting points.   
+      📘 Click here → [Prompts](prompts/)  
+
+5. **Apply in Your Own Lab or Work**  
+   Use the prompts with *your own* CLI outputs or logs,
+   ⚠️ always validating results before any production change.
+
+## 🧩 Use Cases To Prompt Mapping
+
+```The table below summarizes example use cases and the prompts used for easy reference```   
 
 | Use Case | Scenario | Example Input | AI Prompt Used |
 |--------|----------|---------------|----------------|
