@@ -77,3 +77,5 @@ If you are a Network Engineer, your input matters:
 
 Please open an Issue or start a discussion.
 Even simple feedback is extremely valuable.  
+
+**Current Version:** v1.0.0
